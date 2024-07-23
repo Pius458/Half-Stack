@@ -1,0 +1,4 @@
+[submodule "part2-notes-frontend"]
+    path = part2-notes-frontend
+	url = git@github.com:pius458/part2-notes-frontend.git
+
