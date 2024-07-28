@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start:backend": "cd Node && npm run dev",
+    "start:frontend": "cd part2-notes-frontend",
+    "start": "npm run start:backend && npm run start:frontend"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1"
+  }
+}
